@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.img-container {
+  position: relative;
+  width: 100vw;
+  height: 25vh;
+  background-image: url(img/header-hero.jpg);
+  background-size: cover;
+}
+.logo {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  display: block;
+  margin: auto;
+  width: 400px;
+  height: 20vh;
+}

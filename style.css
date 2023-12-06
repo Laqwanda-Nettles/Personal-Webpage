@@ -32,6 +32,15 @@
   font-size: 40px;
   font-weight: 500;
 }
+
+#cta-btn {
+  color: white;
+  text-decoration: none;
+}
+#cta-btn:hover {
+  color: #6b705c;
+}
+
 .img-container {
   position: relative;
   width: 100vw;

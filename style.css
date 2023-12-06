@@ -22,3 +22,9 @@
   width: 400px;
   height: 20vh;
 }
+.navbar {
+  background-color: #6b705c;
+}
+.navbar a {
+  color: bisque;
+}

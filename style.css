@@ -104,6 +104,12 @@
 #cta-btn:hover a {
   color: #6b705c;
 }
+
+body {
+  background: linear-gradient(#ffe8d6, #ddbea9, #cb997e);
+  background-repeat: no-repeat;
+}
+
 .img-container {
   position: relative;
   width: 100vw;

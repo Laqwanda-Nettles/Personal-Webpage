@@ -172,8 +172,8 @@ body {
   height: 50vh;
   width: 100vw;
 }
-#yes-btn,
-#no-btn {
+
+#submit-btn {
   border: none;
   border-radius: 10px;
   padding: 10px 25px;
@@ -182,8 +182,8 @@ body {
   background-color: #6b705c;
   margin: 0 0 20px 50px;
 }
-#yes-btn:hover,
-#no-btn:hover {
+
+#submit-btn:hover {
   background-color: #ffe8d6;
   color: #6b705c;
   border: 2px solid #6b705c;

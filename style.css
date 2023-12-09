@@ -134,18 +134,24 @@ body {
 .navbar a {
   color: bisque;
 }
+.about-container {
+  position: relative;
+  padding: 50px;
+}
+.about-container h1 {
+  text-align: center;
+}
+.about-container p {
+  text-align: justify;
+  font: 25px;
+}
 #culinary-img {
   height: 300px;
-  position: relative;
-  top: 25px;
-  left: 30px;
+  float: left;
+  margin: 0 20px 10px 0;
 }
+
 #my-photo {
   height: 200px;
-}
-#about-me {
-  position: absolute;
-  left: 300px;
-  margin: 20px 80px;
-  font-size: 20px;
+  float: left;
 }

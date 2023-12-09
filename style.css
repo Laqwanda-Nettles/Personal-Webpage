@@ -137,6 +137,7 @@ body {
 .about-container {
   position: relative;
   padding: 50px;
+  margin-bottom: 80px;
 }
 .about-container h1 {
   text-align: center;
@@ -151,6 +152,16 @@ body {
   margin: 0 20px 10px 0;
 }
 
+.page-break {
+  height: 50px;
+  width: 100vw;
+  background-color: #6b705c;
+}
+.page-break h4 {
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
 #my-photo {
   height: 200px;
   float: left;

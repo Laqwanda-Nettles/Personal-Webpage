@@ -144,7 +144,7 @@ body {
 }
 .about-container p {
   text-align: justify;
-  font: 25px;
+  font-size: 25px;
 }
 #culinary-img {
   height: 300px;
@@ -172,18 +172,26 @@ body {
   height: 50vh;
   width: 100vw;
 }
-.quote-container button {
+#yes-btn,
+#no-btn {
   border: none;
   border-radius: 10px;
   padding: 10px 25px;
   font-size: 20px;
   color: #ffe8d6;
   background-color: #6b705c;
+  margin: 0 0 20px 50px;
 }
-.quote-container button:hover {
+#yes-btn:hover,
+#no-btn:hover {
   background-color: #ffe8d6;
   color: #6b705c;
   border: 2px solid #6b705c;
+  margin: 0 0 20px 50px;
+}
+#about-me2 {
+  margin: 20px 50px;
+  font-size: 25px;
 }
 
 #my-photo {

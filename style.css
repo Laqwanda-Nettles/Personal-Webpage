@@ -162,6 +162,30 @@ body {
   text-align: center;
   padding: 10px;
 }
+
+.quote-container {
+  background-image: url(img/torn-paper.jpg);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+  text-align: center;
+  height: 50vh;
+  width: 100vw;
+}
+.quote-container button {
+  border: none;
+  border-radius: 10px;
+  padding: 10px 25px;
+  font-size: 20px;
+  color: #ffe8d6;
+  background-color: #6b705c;
+}
+.quote-container button:hover {
+  background-color: #ffe8d6;
+  color: #6b705c;
+  border: 2px solid #6b705c;
+}
+
 #my-photo {
   height: 200px;
   float: left;

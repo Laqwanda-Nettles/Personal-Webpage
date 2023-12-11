@@ -166,13 +166,20 @@ body {
 .quote-container {
   background-image: url(img/torn-paper.jpg);
   background-repeat: no-repeat;
-  background-size: contain;
+  background-size: auto;
   background-position: center;
   text-align: center;
   height: 50vh;
   width: 100vw;
 }
 
+.quote-container pre {
+  position: relative;
+  top: 100px;
+  padding: 0 80px;
+  font-weight: 700;
+  font-size: 18px;
+}
 #submit-btn {
   border: none;
   border-radius: 10px;
@@ -203,5 +210,4 @@ body {
 
 #my-photo {
   height: 200px;
-  float: left;
 }

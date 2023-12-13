@@ -211,3 +211,13 @@ body {
 #my-photo {
   height: 200px;
 }
+
+footer {
+  text-align: center;
+  height: 5vh;
+  width: 100vw;
+  background-color: #6b705c;
+  color: #ffe8d6;
+  padding: 10px;
+  font-size: 20px;
+}

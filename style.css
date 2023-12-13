@@ -255,3 +255,10 @@ footer {
   margin: 20px 50px;
   font-size: 20px;
 }
+#soup {
+  height: 350px;
+  width: 500px;
+  float: left;
+  margin: 20px;
+  border-radius: 20px;
+}

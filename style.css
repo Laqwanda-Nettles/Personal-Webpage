@@ -236,4 +236,9 @@ footer {
   color: #ffe8d6;
   border: 2px solid #cb997e;
   border-radius: 10px;
+  margin-left: 25px;
+}
+#output {
+  font-size: 25px;
+  margin-bottom: 20px;
 }

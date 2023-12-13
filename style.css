@@ -238,6 +238,14 @@ footer {
   border-radius: 10px;
   margin-left: 25px;
 }
+#affirmation-btn:hover {
+  padding: 10px;
+  background-color: #ddbea9;
+  color: #6b705c;
+  border: 2px solid #cb997e;
+  border-radius: 10px;
+  margin-left: 25px;
+}
 #output {
   font-size: 25px;
   margin-bottom: 20px;

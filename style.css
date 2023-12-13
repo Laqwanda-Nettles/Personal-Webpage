@@ -221,3 +221,12 @@ footer {
   padding: 10px;
   font-size: 20px;
 }
+
+#affirmation-container {
+  height: 300px;
+  width: 240px;
+  background-color: #ffe8d6;
+  border: 3px solid #6b705c;
+  border-radius: 15px;
+  box-shadow: 5px 10px 10px 3px #6b705c;
+}

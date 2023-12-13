@@ -230,3 +230,10 @@ footer {
   border-radius: 15px;
   box-shadow: 5px 10px 10px 3px #6b705c;
 }
+#affirmation-btn {
+  padding: 10px;
+  background-color: #6b705c;
+  color: #ffe8d6;
+  border: 2px solid #cb997e;
+  border-radius: 10px;
+}

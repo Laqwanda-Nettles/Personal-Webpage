@@ -258,7 +258,12 @@ footer {
 #soup {
   height: 350px;
   width: 500px;
-  float: left;
   margin: 20px;
+  border-radius: 20px;
+}
+#epis {
+  float: right;
+  height: 300px;
+  width: 350px;
   border-radius: 20px;
 }

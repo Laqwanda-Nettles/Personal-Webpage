@@ -276,3 +276,17 @@ footer {
 #duolingo {
   height: 300px;
 }
+#list-btn {
+  padding: 10px;
+  border-radius: 15px;
+  border: 2px solid #6b705c;
+  background-color: #6b705c;
+  color: #ffe8d6;
+}
+#list-btn:hover {
+  padding: 10px;
+  border-radius: 15px;
+  border: 2px solid whitesmoke;
+  background-color: #ffe8d6;
+  color: #6b705c;
+}

@@ -41,3 +41,10 @@ function getAffirmation() {
       affirmations[Math.floor(Math.random() * affirmations.length)];
   }
 }
+function haveItems() {
+  let items = document.querySelectorAll(".list");
+  for (let item of items) {
+    item.style.textDecoration = "line-through";
+    item.style.color = "#6b9080";
+  }
+}

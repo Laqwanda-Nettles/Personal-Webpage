@@ -1,9 +1,9 @@
 # Personal-Webpage
 
 <h2>About</h2>
-<p>This is my blog inspired webpage that I build from scratch, using the techniques I learned in class. It consists of 4 pages - landing, home, about, and thoughts. It features cards, images, css animation.</p>
+<p>This is my blog-inspired webpage that I built from scratch using the techniques I learned in class. It consists of 4 pages: landing, home, about, and thoughts. It features cards, images, and CSS animation.</p>
 <h2>Wireframe</h2>
-<p>This is my plan for the website using HTML, CSS, Bootstrap, and JavaScript. The wireframe was created on Canva.com</p>
+<p>This is my plan for the website using HTML, CSS, Bootstrap, and JavaScript. The wireframe was created on Canva.com.</p>
 <img src="img/Capstone Wireframe.png"/>
 <h2>Technology Used</h2>
 <p>This project uses HTML, CSS, Bootstrap, and JavaScript to structure the website.</p>
